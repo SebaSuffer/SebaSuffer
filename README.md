@@ -9,13 +9,6 @@ theme=light&bg=9ecf80&animated=true&hideDiscrim=true&borderRadius=30px&idleMessa
 <p align="center">
   
 ![64786f790030895a9e99e54b1a2fb22a](https://i.imgur.com/qtfZIQV.gif)
-  
-
- 
-![64786f790030895a9e99e54b1a2fb22a](https://i.imgur.com/MT400ws.jpg)
-
-
-  
 
 
 </a>
@@ -26,3 +19,4 @@ theme=light&bg=9ecf80&animated=true&hideDiscrim=true&borderRadius=30px&idleMessa
 - C
 - Learning Java
 
+![64786f790030895a9e99e54b1a2fb22a](https://i.imgur.com/MT400ws.jpg)
