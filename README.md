@@ -5,13 +5,9 @@
 
 <p align="center">
 <a href="https://dsc.bio/357272892771270656">
-  <img src="https://lanyard.cnrad.dev/api/357272892771270656?theme=light&bg=0F294D&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
+  <img src="https://lanyard.cnrad.dev/api/357272892771270656?theme=light&bg=10AFD6&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
 </p>
-                                                                                                                          
-<p align="center">
-  
-![64786f790030895a9e99e54b1a2fb22a](https://i.imgur.com/qtfZIQV.gif)
-</p>
+                                                                                                                       
 
 </a>
 
