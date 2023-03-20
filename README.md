@@ -1,6 +1,8 @@
 # -Suffer#6892
-<p align="center">
 !(https://i.imgur.com/qtfZIQV.gif)
+
+<p align="center">
+
   
 <p align="center">
 <a href="https://dsc.bio/357272892771270656">
