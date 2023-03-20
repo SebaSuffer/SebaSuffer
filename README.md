@@ -1,16 +1,15 @@
-### Hi there 👋
+# -Suffer#6892
+![64786f790030895a9e99e54b1a2fb22a](https://i.imgur.com/qtfZIQV.gif)
 
-<!--
-**SebaSuffer/SebaSuffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+<a href="https://dsc.bio/357272892771270656">
+  <img src="https://lanyard.cnrad.dev/api/500787513330499584?theme=light&bg=9ecf80&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Languages
+
+- Python
+- C
+- Learning Java
+
