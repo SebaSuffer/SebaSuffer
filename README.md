@@ -17,7 +17,7 @@
 - C
 - Learning Java
                  
-<p align="center">
+
 <img src="https://i.pinimg.com/originals/70/fc/0a/70fc0ad10b9adb5e86495060f053f6f1.gif"/>
-</p>
+
           
