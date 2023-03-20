@@ -7,7 +7,7 @@
 <a href="https://dsc.bio/357272892771270656">
   <img src="https://lanyard.cnrad.dev/api/357272892771270656?theme=light&bg=FFFFFF&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
 </p>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 </a>
 
