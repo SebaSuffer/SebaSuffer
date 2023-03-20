@@ -11,6 +11,11 @@
 
 </a>
 
+# About me
+
+- Hi, I’m @Suffer. I am a 20yo programming student. I'm everytime trying to learn more. I like doing calisthenics in my free time, reading books and playing online with friends.
+ 🌱 I’m currently learning to program in Java.
+
 # 💻 Languages
 
 - Python
