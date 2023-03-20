@@ -1,8 +1,8 @@
 # -Suffer#6892
 
+
 <p align="center">
-  
-![64786f790030895a9e99e54b1a2fb22a](https://i.imgur.com/qtfZIQV.gif)![64786f790030895a9e99e54b1a2fb22a](https://i.imgur.com/MT400ws.jpg)
+![64786f790030895a9e99e54b1a2fb22a](https://i.imgur.com/qtfZIQV.gif)<p align="center">![64786f790030895a9e99e54b1a2fb22a](https://i.imgur.com/MT400ws.jpg)
 
 
   
