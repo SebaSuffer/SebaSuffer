@@ -4,8 +4,9 @@
   
 <p align="center">
 <a href="https://dsc.bio/357272892771270656">
-  <img src="https://lanyard.cnrad.dev/api/357272892771270656?" />}
-
+  <img src="https://lanyard.cnrad.dev/api/357272892771270656?" /
+theme=light&bg=9ecf80&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
+(https://discord.com/users/357272892771270656
 </a>
 </a>
 
